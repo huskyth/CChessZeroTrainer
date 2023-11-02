@@ -1,0 +1,7 @@
+wandb_log/*
+wandb/*
+models/*
+summary/*
+*.txt
+.idea/*
+*.pyc
